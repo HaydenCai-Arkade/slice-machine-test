@@ -1,0 +1,36 @@
+{
+  "slice_type":"images_slice",
+  "slice_label":null,
+  "items":[
+     
+  ],
+  "primary":{
+     "title":[
+        {
+           "type":"heading1",
+           "text":"ImageSlice",
+           "spans":[
+              
+           ]
+        }
+     ],
+     "description":[
+        {
+           "type":"paragraph",
+           "text":"this is a test",
+           "spans":[
+              
+           ]
+        }
+     ],
+     "image":{
+        "dimensions":{
+           "width":1950,
+           "height":806
+        },
+        "alt":null,
+        "copyright":null,
+        "url":"https://images.prismic.io/slices-machine-app/c1775ecc-5754-4fdb-98e2-a1435b6d7e2b_2323.jpg?auto=compress,format"
+     }
+  }
+}
